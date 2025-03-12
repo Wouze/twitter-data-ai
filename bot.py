@@ -6,11 +6,11 @@ from mega import Mega
 from pyarabic.araby import strip_tashkeel, strip_diacritics, strip_tatweel
 import pyarabic.trans
 
-consumer_key = 'MP6nI2pGFDy0z84ExG7Q0Gs4y'
-consumer_secret = '9dAiXDzPtjE45u1bKZBzs7vMneHBf9Gg6EHsClEL8OcovAS9UO'
+consumer_key = 'QQQ'
+consumer_secret = 'QQ'
 
-access_token = '1470828550441820163-KL82G5hNNP0VyNU70M6QrUQ105KttW'
-access_secret = 'qn88AmDL06bUGoINPdlL9umnpgS8DZfcIkRKPZjZY9fAd'
+access_token = 'QQQ'
+access_secret = 'QQQ'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
